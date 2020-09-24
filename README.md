@@ -8,6 +8,21 @@ The StopGap Foundation is a non-profit organization/charity which aims to make e
 ### Features
 In our ramp management system, we focused on key features that were important for the team and clients as they ordered. On the client side we've allowed clients to login to create, view and update requests, and upload new photos. As a StopGap Administrator, in our admin dashboard, admins can view total orders, update existing order, notify clients of additional documents needed and leave notes on orders.
 
+Login Page
+![Login Page](https://i.imgur.com/uvxtQDC.png)
+
+Client Dashboard
+![Client View](https://i.imgur.com/giDsXU1.png)
+
+Ramp Request Form
+![Ramp Request Form](https://i.imgur.com/aX9Jw3C.png)
+
+Admin Dashboard
+![Admin Dashboard](https://i.imgur.com/fGbU6Vj.png)
+
+Admin Order View
+![Admin Order View](https://i.imgur.com/TlSODWc.png)
+
 
 ## Local Setup Guidelines
 
